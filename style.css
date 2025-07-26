@@ -1,0 +1,54 @@
+body {
+  font-family: 'Georgia', serif;
+  margin: 0;
+  background-color: #f8f4ed;
+  color: #333;
+}
+
+header {
+  background-color: #557a46;
+  color: #fff;
+  padding: 1.5em;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.tagline {
+  font-style: italic;
+  font-size: 1.2em;
+  margin-top: 0.5em;
+}
+
+nav {
+  margin-top: 1em;
+}
+
+nav a {
+  margin: 0 1em;
+  text-decoration: none;
+  color: #ffefc2;
+  font-weight: bold;
+}
+
+.hero img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-bottom: 6px solid #557a46;
+}
+
+.intro {
+  padding: 2em;
+  text-align: center;
+}
+
+footer {
+  background-color: #ddd0c8;
+  text-align: center;
+  padding: 1em;
+  font-size: 0.9em;
+}
